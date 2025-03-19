@@ -1,7 +1,7 @@
 import React from 'react'
 import HeroBgAnimation from '../HeroBgAnimation'
 import { HeroContainer, HeroBg, HeroLeftContainer, Img, HeroRightContainer, HeroInnerContainer, TextLoop, Title, Span, SubTitle,SocialMediaIcons,SocialMediaIcon, ResumeButton } from './HeroStyle'
-import HeroImg from '../../images/HeroImage.jpg'
+import HeroImg from '../../images/WhatsApp Image 2025-03-20 at 02.11.53_c2a99ac8.JPG.jpg'
 import Typewriter from 'typewriter-effect';
 import { Bio } from '../../data/constants';
 
